@@ -1,5 +1,8 @@
 Hyper Link on a new tab test.
 
+[https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html#examples](https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html#examples){:target="_blank"}
+
+
 <a href="https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html#examples" target="_blank"> this is a test link with _blank</a>
 
 <a href="https://docs.aws.amazon.com/cli/latest/reference/budgets/create-budget.html#examples" target="blank"> this is a test link with blank</a>
